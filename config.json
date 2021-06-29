@@ -6,7 +6,7 @@
   "non_organic_links": {
     "key_name_1": "link?sub1={name1}&sub2={name2}&sub3={name3}",
     "key_name_2": "link?sub_1={name1}&sub_2={name2}",
-    "key_name_3": "link/{name1}/{name2}/{name3}",
+    "key_name_3": "link/{name1}/{name2}/{name3}"
   }
   "countries": "PT_N"
 }
