@@ -4,9 +4,9 @@
     "1": "https://xstart.space/click.php?key=fq1q5tl9paic9n8uy9s5"
   },
   "non_organic_links": {
-    "key_name_1": "link?sub1={name1}&sub2={name2}&sub3={name3}&sub4={apsf_id}&sub5={app_id}",
-    "key_name_2": "link?sub_1={name1}&sub_2={name2}&sub_4={apsf_id}&sub_5={app_id}",
-    "key_name_3": "link/{name1}/{name2}/{name3}/{apsf_id}/{app_id}"
+    "keyname1": "link?sub1={name1}&sub2={name2}&sub3={name3}&sub4={apsf_id}&sub5={app_id}",
+    "keyname2": "link?sub_1={name1}&sub_2={name2}&sub_4={apsf_id}&sub_5={app_id}",
+    "keyname3": "link/{name1}/{name2}/{name3}/{apsf_id}/{app_id}"
   },
   "countries": "PT_N"
 }
