@@ -5,7 +5,7 @@
   },
   "non_organic_links": {
     "keyname1": "link?sub1={name1}&sub2={name2}&sub3={name3}&sub4={apsf_id}&sub5={app_id}",
-    "test_aab_bbc_ccd": "https://xstart.space/click.php?key=bqvc0rzv3bhl6kxm3zi7&subid1={name1}&subid2={name2}&subid3={name3}&subid4={apsf_id}&subid5={app_id}"
+    "test": "https://xstart.space/click.php?key=bqvc0rzv3bhl6kxm3zi7&subid1={name1}&subid2={name2}&subid3={name3}&subid4={apsf_id}&subid5={app_id}"
   },
   "countries": "PT_N"
 }
